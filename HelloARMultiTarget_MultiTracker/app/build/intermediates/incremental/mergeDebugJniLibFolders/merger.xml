@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARMultiTarget_MultiTracker/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARMultiTarget_MultiTracker/app/src/debug/jniLibs"/></dataSet></merger>

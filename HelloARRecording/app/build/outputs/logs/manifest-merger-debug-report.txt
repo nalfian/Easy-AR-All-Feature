@@ -1,0 +1,92 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [EasyAR.aar] /Users/omahmac/.gradle/caches/transforms-1/files-1.1/EasyAR.aar/fb1ef354684fbb789fc6a3878c39de97/AndroidManifest.xml:1:1-2:12
+INJECTED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml
+		ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml
+		ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:4:5-81
+	android:name
+		ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:4:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.INTERNET
+ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:7:22-68
+application
+ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:8:5-23:19
+	android:label
+		ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:12:9-40
+activity#cn.easyar.samples.helloarrecording.MainActivity
+ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:13:9-21:20
+	android:label
+		ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:15:13-45
+	android:name
+		ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:14:13-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:19:27-74
+activity#cn.easyar.samples.helloarrecording.ARActivity
+ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:22:9-203
+	android:screenOrientation
+		ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:22:80-119
+	android:configChanges
+		ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:22:120-200
+	android:name
+		ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:22:19-79
+uses-sdk
+INJECTED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml
+INJECTED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml
+INJECTED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml
+INJECTED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml
+		ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml
+		ADDED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:2:1-24:12 reason: cn.easyar.engine has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARRecording/app/src/main/AndroidManifest.xml:2:1-24:12 reason: cn.easyar.engine requested WRITE_EXTERNAL_STORAGE

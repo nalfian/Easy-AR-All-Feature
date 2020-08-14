@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Fri Aug 14 09:26:51 WIB 2020
+1.base=/Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARCloud/app/build/intermediates/transforms/mergeJniLibs/debug/0
+2.path=lib/arm64-v8a/libEasyAR.so
+0.baseType=DIRECTORY
+2.base=/Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARCloud/app/build/intermediates/transforms/mergeJniLibs/debug/0
+2.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+count=3
+1.set=NATIVE_RESOURCE
+0.path=classes.dex
+0.set=DEX
+0.base=/Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARCloud/app/build/intermediates/transforms/dexMerger/debug/0
+2.baseType=DIRECTORY
+1.path=lib/armeabi-v7a/libEasyAR.so

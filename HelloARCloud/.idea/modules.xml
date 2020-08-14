@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloARCloud.iml" filepath="$PROJECT_DIR$/HelloARCloud.iml" group="HelloARCloud" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="HelloARCloud/app" />
+    </modules>
+  </component>
+</project>

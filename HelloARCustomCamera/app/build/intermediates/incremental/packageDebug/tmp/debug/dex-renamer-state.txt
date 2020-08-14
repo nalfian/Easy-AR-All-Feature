@@ -1,0 +1,4 @@
+#Fri Aug 14 10:13:53 WIB 2020
+base.0=/Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARCustomCamera/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Fri Aug 14 10:16:29 WIB 2020
+2.base=/Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARImageTargetData/app/build/intermediates/assets/debug
+0.path=lib/arm64-v8a/libEasyAR.so
+2.baseType=DIRECTORY
+3.base=/Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARImageTargetData/app/build/intermediates/transforms/dexMerger/debug/0
+2.set=ASSET
+1.path=lib/armeabi-v7a/libEasyAR.so
+4.base=/Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARImageTargetData/app/build/intermediates/assets/debug
+count=5
+2.path=namecard.etd
+4.set=ASSET
+3.path=classes.dex
+3.baseType=DIRECTORY
+1.set=NATIVE_RESOURCE
+4.path=idback.etd
+1.baseType=DIRECTORY
+0.base=/Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARImageTargetData/app/build/intermediates/transforms/mergeJniLibs/debug/0
+0.baseType=DIRECTORY
+3.set=DEX
+1.base=/Users/omahmac/Downloads/EasyARSense_4.1.0.7750_Samples_Android/HelloARImageTargetData/app/build/intermediates/transforms/mergeJniLibs/debug/0
+4.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE
